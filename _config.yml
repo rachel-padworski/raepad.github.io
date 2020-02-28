@@ -1,11 +1,11 @@
 # Site settings
 author: Rachel Padworski
-title: 
+title: Rachel's Ramblings
 header-img: img/home-bg.png
 email: rachelpadworski@gmail.com
 copyright_name: Rachel Padworski
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron School Experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  raepad
